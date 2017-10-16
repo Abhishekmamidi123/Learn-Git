@@ -1,0 +1,4 @@
+git
+git config
+git init -> initializes git in local repository
+git status -> status of git in local repository
